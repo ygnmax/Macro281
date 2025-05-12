@@ -10,8 +10,14 @@ What's more, according to the equilibrium analysis, the quantity of the crowd-ou
 
 If we can observe better loan contract data, probably a better way to estimate the crowd-out effect is to estimate the credit demand elasticity and then derive the effect. There is loan contract level data, such as dealscan or other bank-firm loan contract level data, where we can directly observe the borrowing interest rate/borrowing cost. Then we can verify whether the borrowing cost increases or does not increase after the government credit demand increases. In this way, the credit crowding out effect will be cleaner.
 
+### Juan's thoughts.
 
+The challenge with weather shocks is that in principle they affect credit supply and demand. Noemie has some results using narrative variation in the paper. The issue with your approach is that the market for bank loans do not necessarily clear via changes in prices, but it is a market where rationing is commonplace. On top of that, the contracts have other characteristics other than the price, like covenants, changes in the size of a credit line,...
 
 ## Idea 2. Effect of Securitization on Credit Supply
 
 Securitization is a type of financial tool for financial institutions to package multiple loans as securities to sell on the secondary market. Theoretically, by securitization, the loan institutions shift the credit/default risk to the secondary market investors and therefore they could create a new credit supply. The channel of the secondary market investors is sometimes referred to as the shadow banking channel. It would be interesting to first study how much securitization creates a new credit supply in the banking sector and shadow banking sectors. Especially, it would be increasing to see, at the bank level, whether securitizations lead to more non-securitization loans. The data is available from the RMBS or CMBS data vendors such as Morningstar or Trepp.
+
+### Juan's thoughts.
+
+This idea was not too specific and so it was difficult for me to judge.
