@@ -13,8 +13,16 @@ The difference between the coefficients in the first and the second regression a
 In the third set of regressions, the RHS variable will be the expected durable and non-durable consumption expenditure. The LHS variable will be the expected inflation. This coefficient reflects how the inflation expectation is influenced by the expected durable consumption expenditure. Combing the first, second and third regressions helps us to understand how the inflation expectation is shaped by the fiscal policies.
 
 
+## Juan's thoughts.
+
+Check the paper on whether deficits cause inflation by Jonathon Hazell.
+
 ## Idea 2: How does the subjective expectation on mortgage rate impact the mortgage supply?
 
 Without loss of generality, in the competiive equilibrium in a representative agent model, the household maximize the utility and firms maximize the profit. There are banking sectors taking deposit and lending loans, with maximizing interest margin as target. During the formation of the equilibrium, because agents make their decisions simultaneously and without coordination or communication, they have to choose the optimal policy based on the expectation about the aggregated quantity variables. Because each agent is atomistic, its actions have no impact on the equilibrium price, the expectation about the aggregated quantity variables can be uniquely translated to the expectation on the price variables.
 
 Then for bankers, we can estimate the sensitivity of the mortgage supply on the subjective mortgage rate, by linking the Bank Call Report data and Blue Chip Financial Forecast data. This sensitivity could help us to identify the parameter in the best response function of the aggregated variable. The LHS variable will be the log mortgage supply, the RHS variable will be the mortgage rate from the survey data. The variation is from different banks' subjective mortgage forecast across horizons and mortgage supply at each cross-section.
+
+## Juan's thoughts.
+
+I don't think that the assumption that banks are atomistic is a good assumption. The banking sector is concentrated, and bank clients do not have many outside options.
